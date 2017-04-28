@@ -1,1 +1,1 @@
-web: flower --broker=$BROKER_URL --basic_auth=$FLOWER_BASIC_AUTH
+web: flower --broker=$BROKER_URL --basic_auth=$FLOWER_BASIC_AUTH --port=$PORT
