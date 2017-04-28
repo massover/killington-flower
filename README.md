@@ -1,6 +1,6 @@
 # Celery Flower monitoring for killington
 
-Requirements:
+## Requirements
 
 ```
     python 3.6
@@ -13,10 +13,10 @@ Requirements:
     git clone https://github.com/massover/killington-flower.git
     pip install -r requirements-dev.txt
     honcho start
-    open localhost:5555
+    open http://localhost:5555
 ```
 
-Heroku:
+## Heroku
 
 Create an Heroku app:
 
